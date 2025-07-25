@@ -29,7 +29,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **[View Live Application](#)** *(Coming Soon)*
+🚀 **[View Live Application](https://docbook.abdultalha.tech/)** 
 
 > Experience DocBook in action! Try out the patient booking system and explore the admin dashboard with sample data.
 
